@@ -1,16 +1,16 @@
 # **Steam** 上手指北
 
-## 什么是 **Steam**
+## 什么是 **Steam** {#about}
 
 Steam 是 Valve 推出的电子游戏数字分发平台。Steam 集合了多种功能，如数字版权管理、游戏服务器匹配和反作弊系统，以及社交网络和游戏流媒体服务。Steam 还为用户提供自动更新游戏、游戏存档云存储，以及包括好友列表和游戏内聊天在内的社区功能。根据 CompareCamp2020 年统计，Steam 平台是全球最大的电脑游戏数字分发平台，占全球 50%-70%的电脑游戏下载量。 2003 年 9 月， Valve 将其作为一款软件客户端推出，提供自动更新游戏的功能，这一功能在 2005 年末扩展到了第三方游戏发行商发行的作品。
 
 ## 下载与安装 {#install}
 
-使用搜索引擎搜索 Steam 并进入域名为 `https://store.steampowered.com/` 的网站
+使用搜索引擎搜索 Steam 并进入域名为 [`https://store.steampowered.com/`](https://store.steampowered.com/) 的网站
 
 !!! danger "警告"
 
-    请不要进入类似 **“Steam 管家”** 、 **Steam 助手** 之类的站点并认准官方域名
+    请不要进入类似 **Steam 管家** 、 **Steam 助手** 之类的站点并认准官方域名
 
     请务必检查站点域名，它一般在浏览器窗口的上方。
 
@@ -40,11 +40,11 @@ Steam 是 Valve 推出的电子游戏数字分发平台。Steam 集合了多种�
 
 !!! tip "小知识"
 
-    通常软件会安装在系统盘符的 `Program Files` 或 `Program Files (x86)` 中，你一般可以放心地相信安装程序的默认路径
+    通常软件会安装在系统盘符的 `Program Files` 或 `Program Files (x86)` 中，你一般可以放心地相信安装程序的默认路径。
 
 ![](steam/finish-install.png)
 
-## 运行并注册
+## 运行并注册 {#register}
 
 安装完毕后，你可以在 **桌面** 或 **“开始”菜单** 中找到 Steam 的快捷方式，运行快捷方式即可启动 Steam。
 
@@ -57,3 +57,63 @@ Steam 是 Valve 推出的电子游戏数字分发平台。Steam 集合了多种�
 ![](steam/steam-login.png)
 
 若你拥有 Steam 账户，你可以直接在其中登陆。（当然如果你有的话大概率也用不到这篇文章吧）。如果没有，你可以点击右下角 `创建免费账户` 来进入浏览器注册界面。
+
+在注册页面根据提示填入你的**电子邮件地址**并重复以确认，在选择地区后进行人机验证，随后勾选 **`我已年满 13 周岁并同意《Steam 订户协议》和《Valve 隐私政策》的条款`**，点击 <span style="color:#1899ff"><b>继续</b></span> 进入下一步。
+
+![](steam/register-page.png)
+
+随后页面会提示你查看你的邮箱来完成验证，你需要进入你的邮箱来查看来自 Steam 的验证邮件。
+
+![](steam/waiting-verify.png)
+
+登录你先前填写的电子邮箱，在**收件箱**中找到来自 Steam 的验证邮件，点击其中的点击 <span style="color:#1899ff"><b>验证我的电子邮件</b></span> 进行电子邮件验证。
+
+!!! danger "警告"
+
+    Steam 通常会使用域名为 `steampowered.com` 的邮箱给你发送地址，其他的地址均为假冒！
+
+    :fontawesome-solid-circle-xmark:{: .orangered } **错误**格式：`noreply@steamguanfang.com`
+
+    :fontawesome-solid-circle-check:{: .limegreen } **正确**格式：`noreply@steampowered.com`
+
+!!! tip "小知识"
+
+    这一步通常需要你在浏览器中进行。
+
+![](steam/verify-email.png)
+
+等待页面提示 **电子邮件已验证** 后返回 Steam 窗口中，并填写账户名称和密码。
+
+![](steam/account-info.png)
+
+!!! danger "警告"
+
+    账户名称为此后登录 Steam 时重要凭证，不可更改或与他人重复。
+
+!!! danger "警告"
+
+    两次输入的密码需相同。
+
+随后点击 <span style="color:#1899ff"><b>完成</b></span> 即可结束 Steam 账户注册。
+
+![](steam/create-success.png)
+
+## 登录桌面客户端 {#login}
+
+在登录界面键入你注册时填写的用户名与密码，点击登录。若初次登陆 Steam 可能会要你输入验证码以验证账户所有权。
+
+![](steam/verify-code.png)
+
+登录你的电子邮件，将获取的验证码填入验证窗口即可完成登录。
+
+![](steam/email-code.png)
+
+## Q&A
+
+### Q1：连接 Steam 登录或注册时提示网络错误
+
+A1：你可下载 [Watt Toolkit（原 Steam++）](https://steampp.net/) 或 [UU 加速器](https://uu.163.com/) 来修复部分地区无法连接 Steam 服务器的问题。
+
+### Q2：新账号无法添加 Steam 好友
+
+A2：你需要在 Steam 商店中消费满 5 美元才可解锁好友功能。

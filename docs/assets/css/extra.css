@@ -14,3 +14,7 @@
 .avatar{
     height:128px !important;
 }
+
+.md-typeset img,.md-typeset svg,.md-typeset video{
+    max-width: 75% !important;
+}
