@@ -46,6 +46,7 @@ nav:
       - 格式风格: rules/styleguide.md
   - 软件:
       - Steam: software/steam.md
+      - Wegame: software/wegame.md
 
 extra_css:
   - "assets/css/extra-color.css"

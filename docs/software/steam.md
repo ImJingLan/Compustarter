@@ -110,10 +110,10 @@ Steam 是 Valve 推出的电子游戏数字分发平台。Steam 集合了多种�
 
 ## Q&A
 
-### Q1：连接 Steam 登录或注册时提示网络错误
+!!! tip "Q1: 连接 Steam 登录或注册时提示网络错误"
 
-A1：你可下载 [Watt Toolkit（原 Steam++）](https://steampp.net/) 或 [UU 加速器](https://uu.163.com/) 来修复部分地区无法连接 Steam 服务器的问题。
+    你可下载 [Watt Toolkit（原 Steam++）](https://steampp.net/) 或 [UU 加速器](https://uu.163.com/) 来修复部分地区无法连接 Steam 服务器的问题。
 
-### Q2：新账号无法添加 Steam 好友
+!!! tip "Q2: 新账号无法添加 Steam 好友"
 
-A2：你需要在 Steam 商店中消费满 5 美元才可解锁好友功能。
+    你需要在 Steam 商店中消费满 5 美元才可解锁好友功能。

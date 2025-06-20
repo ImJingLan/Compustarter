@@ -1,13 +1,11 @@
 ---
-title: FAQ@LitLug
+title: FAQ@Compustarter
 ---
 
-# FAQ@LitLug
+# FAQ@Compustarter
 
-!!! tip "Q1: 为什么选择 **litlug.wiki** 而不是类似 **.org** 的域名作为协会官网？"
+!!! tip "Q1: 什么是 Compustarter？"
 
-    最初我们注册了 **litlug.org.cn** 作为协会官方域名，但我们在决定编写 Wiki 之后便注册了 **litlug.wiki** 作为 Wiki 站点的域名。
+    Compustarter 是由 Computer 和 Starter 组成的复合词，意思是**电脑上手指北**。
 
-    在之后的维护中我们发现 **litlug.org.cn** 并不常用，因此我们便不在维护这个域名。但我们任让他跳转至 **litlug.wiki**
-
-    我们将在启用 **litlug.org.cn** 或更新域名时发出公告
+    Compustarter 由 [**LitLug**](//litlug.wiki) 运营并维护，是一个回答冷门但不小众的计算机问题的维基百科
